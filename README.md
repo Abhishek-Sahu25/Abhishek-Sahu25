@@ -1,4 +1,4 @@
-## Hi there 👋
+## I approach engineering with a research-first, systems-level mindset — I like to understand a problem deeply before writing a single line of code, then iterate toward the cleanest, most optimized solution. I'm drawn to projects that sit at the intersection of full-stack engineering and AI/ML, where I can build something end-to-end rather than just a proof of concept. Having led a 10-member technical team, I value clear communication and steady execution as much as clever code. I learn best by building — shipping production-oriented projects, breaking them, fixing them, and staying curious about what to try next.
 
 <!--
 **Abhishek-Sahu25/Abhishek-Sahu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
